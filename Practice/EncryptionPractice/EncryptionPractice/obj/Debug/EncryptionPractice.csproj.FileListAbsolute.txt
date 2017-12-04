@@ -1,0 +1,7 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\EncryptionPractice\bin\Debug\EncryptionPractice.exe.config
+G:\My Coding Projects\EncryptionPractice\EncryptionPractice\bin\Debug\EncryptionPractice.exe.config
+G:\My Coding Projects\EncryptionPractice\EncryptionPractice\bin\Debug\EncryptionPractice.exe
+G:\My Coding Projects\EncryptionPractice\EncryptionPractice\bin\Debug\EncryptionPractice.pdb
+G:\My Coding Projects\EncryptionPractice\EncryptionPractice\obj\Debug\EncryptionPractice.csprojResolveAssemblyReference.cache
+G:\My Coding Projects\EncryptionPractice\EncryptionPractice\obj\Debug\EncryptionPractice.exe
+G:\My Coding Projects\EncryptionPractice\EncryptionPractice\obj\Debug\EncryptionPractice.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\EventsPractice\bin\Debug\EventsPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\EventsPractice\bin\Debug\EventsPractice.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\EventsPractice\obj\Debug\EventsPractice.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\EventsPractice\obj\Debug\EventsPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\EventsPractice\obj\Debug\EventsPractice.pdb
+G:\My Coding Projects\EventsPractice\EventsPractice\obj\Debug\EventsPractice.exe
+G:\My Coding Projects\EventsPractice\EventsPractice\obj\Debug\EventsPractice.pdb
+G:\My Coding Projects\EventsPractice\EventsPractice\bin\Debug\EventsPractice.exe
+G:\My Coding Projects\EventsPractice\EventsPractice\bin\Debug\EventsPractice.pdb
+G:\My Coding Projects\EventsPractice\EventsPractice\obj\Debug\EventsPractice.csprojResolveAssemblyReference.cache

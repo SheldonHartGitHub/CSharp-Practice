@@ -1,0 +1,7 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\GenericTypesPractice\bin\Debug\GenericTypesPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\GenericTypesPractice\bin\Debug\GenericTypesPractice.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\GenericTypesPractice\obj\Debug\GenericTypesPractice.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\GenericTypesPractice\obj\Debug\GenericTypesPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\GenericTypesPractice\obj\Debug\GenericTypesPractice.pdb
+G:\My Coding Projects\GenericTypesPractice\GenericTypesPractice\obj\Debug\GenericTypesPractice.exe
+G:\My Coding Projects\GenericTypesPractice\GenericTypesPractice\obj\Debug\GenericTypesPractice.pdb

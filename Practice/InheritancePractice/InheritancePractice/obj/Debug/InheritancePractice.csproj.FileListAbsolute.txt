@@ -1,0 +1,5 @@
+G:\My Coding Projects\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.exe
+G:\My Coding Projects\InheritancePractice\InheritancePractice\bin\Debug\InheritancePractice.pdb
+G:\My Coding Projects\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.csprojResolveAssemblyReference.cache
+G:\My Coding Projects\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.exe
+G:\My Coding Projects\InheritancePractice\InheritancePractice\obj\Debug\InheritancePractice.pdb

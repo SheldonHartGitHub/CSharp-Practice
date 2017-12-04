@@ -1,0 +1,4 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\StructPractice\bin\Debug\StructPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\StructPractice\bin\Debug\StructPractice.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\StructPractice\obj\Debug\StructPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\StructPractice\obj\Debug\StructPractice.pdb

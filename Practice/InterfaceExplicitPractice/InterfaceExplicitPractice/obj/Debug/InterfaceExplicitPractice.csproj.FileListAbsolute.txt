@@ -1,0 +1,7 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfaceExplicitPractice\bin\Debug\InterfaceExplicitPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfaceExplicitPractice\bin\Debug\InterfaceExplicitPractice.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfaceExplicitPractice\obj\Debug\InterfaceExplicitPractice.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfaceExplicitPractice\obj\Debug\InterfaceExplicitPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfaceExplicitPractice\obj\Debug\InterfaceExplicitPractice.pdb
+G:\My Coding Projects\InterfaceExplicitPractice\InterfaceExplicitPractice\obj\Debug\InterfaceExplicitPractice.exe
+G:\My Coding Projects\InterfaceExplicitPractice\InterfaceExplicitPractice\obj\Debug\InterfaceExplicitPractice.pdb

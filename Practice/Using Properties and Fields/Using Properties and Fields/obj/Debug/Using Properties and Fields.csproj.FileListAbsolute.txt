@@ -1,0 +1,7 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\Using Properties and Fields\bin\Debug\Using Properties and Fields.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\Using Properties and Fields\bin\Debug\Using Properties and Fields.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\Using Properties and Fields\obj\Debug\Using Properties and Fields.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\Using Properties and Fields\obj\Debug\Using Properties and Fields.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\Using Properties and Fields\obj\Debug\Using Properties and Fields.pdb
+G:\My Coding Projects\Using Properties and Fields\Using Properties and Fields\obj\Debug\Using Properties and Fields.exe
+G:\My Coding Projects\Using Properties and Fields\Using Properties and Fields\obj\Debug\Using Properties and Fields.pdb

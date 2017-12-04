@@ -1,0 +1,5 @@
+G:\My Coding Projects\IEnumerablePractice\IEnumerablePractice\bin\Debug\IEnumerablePractice.exe
+G:\My Coding Projects\IEnumerablePractice\IEnumerablePractice\bin\Debug\IEnumerablePractice.pdb
+G:\My Coding Projects\IEnumerablePractice\IEnumerablePractice\obj\Debug\IEnumerablePractice.csprojResolveAssemblyReference.cache
+G:\My Coding Projects\IEnumerablePractice\IEnumerablePractice\obj\Debug\IEnumerablePractice.exe
+G:\My Coding Projects\IEnumerablePractice\IEnumerablePractice\obj\Debug\IEnumerablePractice.pdb

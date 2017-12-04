@@ -1,0 +1,7 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfacePractice\obj\Debug\InterfacePractice.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfacePractice\bin\Debug\InterfacePractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfacePractice\bin\Debug\InterfacePractice.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfacePractice\obj\Debug\InterfacePractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\InterfacePractice\obj\Debug\InterfacePractice.pdb
+G:\My Coding Projects\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.exe
+G:\My Coding Projects\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.pdb

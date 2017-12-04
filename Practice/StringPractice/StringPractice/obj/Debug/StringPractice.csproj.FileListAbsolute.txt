@@ -1,0 +1,4 @@
+G:\My Coding Projects\StringPractice\StringPractice\bin\Debug\StringPractice.exe
+G:\My Coding Projects\StringPractice\StringPractice\bin\Debug\StringPractice.pdb
+G:\My Coding Projects\StringPractice\StringPractice\obj\Debug\StringPractice.exe
+G:\My Coding Projects\StringPractice\StringPractice\obj\Debug\StringPractice.pdb

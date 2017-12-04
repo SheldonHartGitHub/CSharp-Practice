@@ -1,0 +1,7 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ExtensionPractice\bin\Debug\ExtensionPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ExtensionPractice\bin\Debug\ExtensionPractice.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ExtensionPractice\obj\Debug\ExtensionPractice.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ExtensionPractice\obj\Debug\ExtensionPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ExtensionPractice\obj\Debug\ExtensionPractice.pdb
+G:\My Coding Projects\ExtensionPractice\ExtensionPractice\obj\Debug\ExtensionPractice.exe
+G:\My Coding Projects\ExtensionPractice\ExtensionPractice\obj\Debug\ExtensionPractice.pdb

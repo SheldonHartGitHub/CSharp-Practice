@@ -1,0 +1,16 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ClassesAndObjectsExample\bin\Debug\ClassesAndObjectsExample.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ClassesAndObjectsExample\bin\Debug\ClassesAndObjectsExample.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.Form1.resources
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.Properties.Resources.resources
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.csproj.GenerateResource.Cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.pdb
+G:\My Coding Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.exe
+G:\My Coding Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.pdb
+G:\My Coding Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\ClassesAndObjectsExample\bin\Debug\ClassesAndObjectsExample.exe
+G:\My Coding Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\ClassesAndObjectsExample\bin\Debug\ClassesAndObjectsExample.pdb
+G:\My Coding Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.csprojResolveAssemblyReference.cache
+G:\My Coding Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.Form1.resources
+G:\My Coding Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.Properties.Resources.resources
+G:\My Coding Projects\ClassesAndObjectsExample\ClassesAndObjectsExample\ClassesAndObjectsExample\obj\Debug\ClassesAndObjectsExample.csproj.GenerateResource.Cache

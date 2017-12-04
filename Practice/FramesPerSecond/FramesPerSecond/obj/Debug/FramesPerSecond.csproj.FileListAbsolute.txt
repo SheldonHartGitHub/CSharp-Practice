@@ -1,0 +1,15 @@
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond.csprojResolveAssemblyReference.cache
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\MainWindow.g.cs
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\App.g.cs
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond_MarkupCompile.cache
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond_MarkupCompile.lref
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\bin\Debug\FramesPerSecond.exe.config
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\bin\Debug\FramesPerSecond.exe
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\bin\Debug\FramesPerSecond.pdb
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\MainWindow.baml
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond.g.resources
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond.Properties.Resources.resources
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond.csproj.GenerateResource.Cache
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond.csproj.CoreCompileInputs.cache
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond.exe
+D:\My Coding Projects\FramesPerSecond\FramesPerSecond\obj\Debug\FramesPerSecond.pdb

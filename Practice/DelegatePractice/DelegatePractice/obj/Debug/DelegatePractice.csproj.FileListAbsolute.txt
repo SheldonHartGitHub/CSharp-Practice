@@ -1,0 +1,7 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\DelegatePractice\bin\Debug\DelegatePractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\DelegatePractice\bin\Debug\DelegatePractice.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\DelegatePractice\obj\Debug\DelegatePractice.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\DelegatePractice\obj\Debug\DelegatePractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\DelegatePractice\obj\Debug\DelegatePractice.pdb
+G:\My Coding Projects\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.exe
+G:\My Coding Projects\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\CastingConvertingPractice\bin\Debug\CastingConvertingPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\CastingConvertingPractice\bin\Debug\CastingConvertingPractice.pdb
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\CastingConvertingPractice\obj\Debug\CastingConvertingPractice.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\CastingConvertingPractice\obj\Debug\CastingConvertingPractice.exe
+C:\Users\Sheldon Hart\AppData\Local\Temporary Projects\CastingConvertingPractice\obj\Debug\CastingConvertingPractice.pdb
